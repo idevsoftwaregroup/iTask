@@ -1,0 +1,17 @@
+D:\Projects\Mika Git\Navid\Test\Backend-test\TaskManager.Infastructure\bin\Debug\net6.0\TaskManager.Infastructure.deps.json
+D:\Projects\Mika Git\Navid\Test\Backend-test\TaskManager.Infastructure\bin\Debug\net6.0\TaskManager.Infastructure.runtimeconfig.json
+D:\Projects\Mika Git\Navid\Test\Backend-test\TaskManager.Infastructure\bin\Debug\net6.0\TaskManager.Infastructure.dll
+D:\Projects\Mika Git\Navid\Test\Backend-test\TaskManager.Infastructure\bin\Debug\net6.0\TaskManager.Infastructure.pdb
+D:\Projects\Mika Git\Navid\Test\Backend-test\TaskManager.Infastructure\bin\Debug\net6.0\TaskManager.Domain.dll
+D:\Projects\Mika Git\Navid\Test\Backend-test\TaskManager.Infastructure\bin\Debug\net6.0\TaskManager.Domain.pdb
+D:\Projects\Mika Git\Navid\Test\Backend-test\TaskManager.Infastructure\obj\Debug\net6.0\TaskManager.Infastructure.csproj.AssemblyReference.cache
+D:\Projects\Mika Git\Navid\Test\Backend-test\TaskManager.Infastructure\obj\Debug\net6.0\TaskManager.Infastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Mika Git\Navid\Test\Backend-test\TaskManager.Infastructure\obj\Debug\net6.0\TaskManager.Infastructure.AssemblyInfoInputs.cache
+D:\Projects\Mika Git\Navid\Test\Backend-test\TaskManager.Infastructure\obj\Debug\net6.0\TaskManager.Infastructure.AssemblyInfo.cs
+D:\Projects\Mika Git\Navid\Test\Backend-test\TaskManager.Infastructure\obj\Debug\net6.0\TaskManager.Infastructure.csproj.CoreCompileInputs.cache
+D:\Projects\Mika Git\Navid\Test\Backend-test\TaskManager.Infastructure\obj\Debug\net6.0\TaskMana.36CBA0CF.Up2Date
+D:\Projects\Mika Git\Navid\Test\Backend-test\TaskManager.Infastructure\obj\Debug\net6.0\TaskManager.Infastructure.dll
+D:\Projects\Mika Git\Navid\Test\Backend-test\TaskManager.Infastructure\obj\Debug\net6.0\refint\TaskManager.Infastructure.dll
+D:\Projects\Mika Git\Navid\Test\Backend-test\TaskManager.Infastructure\obj\Debug\net6.0\TaskManager.Infastructure.pdb
+D:\Projects\Mika Git\Navid\Test\Backend-test\TaskManager.Infastructure\obj\Debug\net6.0\TaskManager.Infastructure.genruntimeconfig.cache
+D:\Projects\Mika Git\Navid\Test\Backend-test\TaskManager.Infastructure\obj\Debug\net6.0\ref\TaskManager.Infastructure.dll

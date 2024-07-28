@@ -1,0 +1,11 @@
+D:\Projects\Mika Git\Navid\Test\Backend-test\TaskManager.Domain\bin\Debug\net6.0\TaskManager.Domain.deps.json
+D:\Projects\Mika Git\Navid\Test\Backend-test\TaskManager.Domain\bin\Debug\net6.0\TaskManager.Domain.dll
+D:\Projects\Mika Git\Navid\Test\Backend-test\TaskManager.Domain\bin\Debug\net6.0\TaskManager.Domain.pdb
+D:\Projects\Mika Git\Navid\Test\Backend-test\TaskManager.Domain\obj\Debug\net6.0\TaskManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Mika Git\Navid\Test\Backend-test\TaskManager.Domain\obj\Debug\net6.0\TaskManager.Domain.AssemblyInfoInputs.cache
+D:\Projects\Mika Git\Navid\Test\Backend-test\TaskManager.Domain\obj\Debug\net6.0\TaskManager.Domain.AssemblyInfo.cs
+D:\Projects\Mika Git\Navid\Test\Backend-test\TaskManager.Domain\obj\Debug\net6.0\TaskManager.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\Mika Git\Navid\Test\Backend-test\TaskManager.Domain\obj\Debug\net6.0\TaskManager.Domain.dll
+D:\Projects\Mika Git\Navid\Test\Backend-test\TaskManager.Domain\obj\Debug\net6.0\refint\TaskManager.Domain.dll
+D:\Projects\Mika Git\Navid\Test\Backend-test\TaskManager.Domain\obj\Debug\net6.0\TaskManager.Domain.pdb
+D:\Projects\Mika Git\Navid\Test\Backend-test\TaskManager.Domain\obj\Debug\net6.0\ref\TaskManager.Domain.dll
